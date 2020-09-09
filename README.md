@@ -1,2 +1,2 @@
-# Collage-Maker-frod-Movies-Video
+# Collage-Maker-from-Movies-Video
 Change VFILE variable to the path of the video that is to be processed
